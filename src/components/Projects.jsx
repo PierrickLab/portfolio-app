@@ -29,7 +29,7 @@ const projects = [
     image: "/project/image_portoflio.png",
     tags: ["React", "Tailwind", "HTML/CSS"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/PierrickLab/portfolio-app",
   },
 ];
 
