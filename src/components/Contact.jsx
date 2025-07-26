@@ -90,7 +90,7 @@ export const Contact = () => {
               {/* <h4 className="font-medium mb-2 text-center">Connect With Me</h4> */}
               <div className="flex justify-center mt-1">
                 <img
-                  src="/projects/logo2.png" alt="Logo" />
+                  src="/project/logo2.png"
                   alt="Logo"
                   className="rounded-lg object-contain border-2 border-gray-300"
                   style={{ maxWidth: "100%", height: "auto" }}
