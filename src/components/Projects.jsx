@@ -6,7 +6,7 @@ const projects = [
     id: 1,
     title: "GameVault",
     description: "A videogame rental app, to list videogames.",
-    image: "src/projects/image_gamevault.png",
+    image: "/project/image_gamevault.png",
     tags: ["Ruby on Rails", "HTML/CSS", "Git"],
     demoUrl: "#",
     githubUrl: "https://github.com/PierrickLab/videogames_rentings",
@@ -16,7 +16,7 @@ const projects = [
     title: "X-Goal Achiever",
     description:
       "A task manager with the posibility to track your statistics, for users with ADHD ",
-    image: "src/projects/image_x_goal.png",
+    image: "/project/image_x_goal.png",
     tags: ["Ruby on Rails", "HTML/CSS", "Git"],
     demoUrl: "https://www.xgoal-achiever.online/",
     githubUrl: "https://github.com/PierrickLab/x_goal_achiever",
@@ -26,7 +26,7 @@ const projects = [
     title: "Portfolio",
     description:
       "Portfolio made with React to showcase my resume from another perspective.",
-    image: "src/projects/image_portoflio.png",
+    image: "/project/image_portoflio.png",
     tags: ["React", "Tailwind", "HTML/CSS"],
     demoUrl: "#",
     githubUrl: "#",
