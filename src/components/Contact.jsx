@@ -68,7 +68,7 @@ export const Contact = () => {
                     href="tel:+11234567890"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    +1 (514) 850-9458
+                    +33 6 22 94 26 12
                   </a>
                 </div>
               </div>
@@ -80,7 +80,7 @@ export const Contact = () => {
                 <div>
                   <h4 className="font-medium">Location</h4>
                   <p className="text-muted-foreground hover:text-primary transition-colors">
-                    Bordeaux from september 2025
+                    Bordeaux
                   </p>
                 </div>
               </div>
