@@ -80,7 +80,7 @@ export const Contact = () => {
                 <div>
                   <h4 className="font-medium">Location</h4>
                   <p className="text-muted-foreground hover:text-primary transition-colors">
-                    Bordeaux
+                    Bordeaux / Bergerac
                   </p>
                 </div>
               </div>
